@@ -1,17 +1,18 @@
 # Databricks notebook source
 # MAGIC %md-sandbox
-# MAGIC 
+# MAGIC
 # MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
 # MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning" style="width: 600px">
 # MAGIC </div>
 
 # COMMAND ----------
 
+# DBTITLE 0,--i18n-0a463481-dd94-4286-9f6e-6522a3a090ec
 # MAGIC %md
 # MAGIC ## Introduction to PySpark Programming
-# MAGIC 
+# MAGIC
 # MAGIC This module is part of the Data Engineer Learning Path by Databricks Academy.
-# MAGIC 
+# MAGIC
 # MAGIC #### DataFrames
 # MAGIC | Type | Lesson |
 # MAGIC | --- | --- |
@@ -21,7 +22,7 @@
 # MAGIC | Lab | [DE 0.04L - Purchase Revenues Lab]($./DE 0.04L - Purchase Revenues Lab) |
 # MAGIC | Demo | [DE 0.05 - Aggregation]($./DE 0.05 - Aggregation) |
 # MAGIC | Lab | [DE 0.06L - Revenue by Traffic Lab]($./DE 0.06L - Revenue by Traffic Lab) |
-# MAGIC 
+# MAGIC
 # MAGIC #### Functions
 # MAGIC | Type | Lesson |
 # MAGIC | --- | --- |
@@ -31,7 +32,7 @@
 # MAGIC | Demo | [DE 0.10 - Complex Types]($./DE 0.10 - Complex Types) |
 # MAGIC | Demo | [DE 0.11 - Additional Functions]($./DE 0.11 - Additional Functions) |
 # MAGIC | Lab | [DE 0.12L - Abandoned Carts Lab]($./DE 0.12L - Abandoned Carts Lab) |
-# MAGIC 
+# MAGIC
 # MAGIC #### Query Execution
 # MAGIC | Type | Lesson |
 # MAGIC | --- | --- |
